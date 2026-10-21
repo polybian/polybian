@@ -1,6 +1,6 @@
 # Martin Guardia — IT Infrastructure & Networking
 
-**Bilingual IT Support Specialist (EN/ES)** · Chicago, IL
+**Bilingual IT Specialist (EN/ES)** · Chicago, IL
 Primary technical resource for distributed teams: Microsoft 365 / Entra ID / Active Directory end to end, WireGuard VPN, firewall & DNS, Intune endpoint lifecycle, Zendesk ITSM, Snipe-IT inventory, Graylog log analysis.
 
 ## Hands-on labs (github.com/polybian)
