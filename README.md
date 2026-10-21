@@ -20,9 +20,9 @@ Additional capability labs: [homelab-network-lab](https://github.com/polybian/ho
 
 ## Background
 
-- Bilingual IT Support Specialist — Kime Capital SL (remote) · Mar 2024 – Present
-- IT Inventory Specialist — Marubeni Corporation, Miami FL · Feb 2025 – Aug 2025
-- CySA+ trained (Per Scholas) · TryHackMe premium
-- Open to IT Support / Networking / Systems roles in Chicago
+- Bilingual IT Specialist — Kime Capital SL (remote) · Mar 2024 – Present
+- IT Inventory Specialist — Marubeni Corporation, Miami FL  2025
+- CySA+ trained (CompTIA) 
+- Open to IT / Networking / Systems roles in Chicago
 
 📫 martinguardia@protonmail.com
