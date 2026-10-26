@@ -1,11 +1,11 @@
-# RM Guardia (Martin Guardia) — IT Infrastructure & Networking
+# RM Guardia (Martin Guardia): IT Infrastructure & Networking
 
 **Bilingual IT Specialist (EN/ES)** · Chicago, IL
 Primary technical resource for distributed teams: Microsoft 365 / Entra ID / Active Directory end to end, WireGuard VPN, firewall & DNS, Intune endpoint lifecycle, Zendesk ITSM, Snipe-IT inventory, Graylog log analysis.
 
 ## Hands-on implementations (github.com/polybian)
 
-Recreations of deployments I administered professionally — sanitized, documented with architecture diagrams and runbooks:
+Recreations of deployments I administered professionally, sanitized and documented with architecture diagrams and runbooks:
 
 | Implementation | What it shows |
 |---|---|
@@ -33,8 +33,8 @@ Explorations in quantum computing with Qiskit, validated on simulators:
 
 ## Background
 
-- Bilingual IT Specialist — Kime Capital SL (remote) · Mar 2024 – Present
-- IT Inventory Specialist — Marubeni Corporation, Miami FL  2025
+- Bilingual IT Specialist, Kime Capital SL (remote) · Mar 2024 – Present
+- IT Inventory Specialist, Marubeni Corporation, Miami FL · 2025
 - CySA+ trained (CompTIA) 
 - Open to IT / Networking / Systems roles in Chicago
 
